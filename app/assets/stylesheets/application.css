@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+.person {
+  font-style: italic;
+}
+
+.message {
+  border-left: 8px solid lightgrey;
+  padding: 5px;
+  margin: 14px;
+  font-size: 23px;
+}
+
+.answer {
+  background-color: #fff4e0;
+}
